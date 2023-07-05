@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Berrios_EC2</string>
+    <string name="titulo_login">Inciar Sesion!</string>
+    <string name="titulo_login_email">Ingresar Correo: </string>
+    <string name="titulo_login_pass">Ingresar Contraseña: </string>
+    <string name="btn_login">Inciar Sesion</string>
+    <string name="titu_foto">Realiza una foto...</string>
+    <string name="btn_tomarfoto">Tomar foto</string>
+    <string name="btn_regresar">Regresar...</string>
+</resources>
